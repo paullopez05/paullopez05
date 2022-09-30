@@ -1,2 +1,2 @@
-## Future home of paullopez05
-Saving this as a placeholder, changes TBD.
+## Home of paullopez05
+Most of my repos are set to private since they are the ideas that I believe, or at least hope, that I can turn into a business. The rest is here to see for all, not the most impressive but I can assure you that my engineering skillset is as deep as my curiosity.
